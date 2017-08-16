@@ -1,0 +1,63 @@
+#define MENU_CHG 1
+#define MENU_DIS 2
+#define MENU_SEQ 3
+#define MENU_CFG 4
+
+#define MENU_CHG_LOAD 0x11
+#define MENU_DIS_LOAD 0x12
+#define MENU_SEQ_LOAD 0x13
+
+#define MENU_CHG_START			0x21
+#define MENU_CHG_CURRENT		0x22
+#define MENU_CHG_DELTAPEAK		0x23
+#define MENU_CHG_PEAKDELAY		0x24
+#define MENU_CHG_VOLTAGE		0x25
+#define MENU_CHG_CVTRICKLE		0x26
+#define MENU_CHG_STOPCUR		0x27
+#define MENU_CHG_DECSPEED		0x28
+#define MENU_CHG_CAPACITY		0x29
+#define MENU_CHG_SAVE			0x2A
+
+#define MENU_DIS_START			0x31
+#define MENU_DIS_CURRENT		0x32
+#define MENU_DIS_VOLTAGE		0x33
+#define MENU_DIS_SHIBORI		0x34
+#define MENU_DIS_DECSPEED		0x35
+#define MENU_DIS_STOPCUR		0x36
+#define MENU_DIS_CAPACITY		0x37
+#define MENU_DIS_SAVE			0x38
+
+
+#define MENU_SEQ_START			0x41
+#define MENU_SEQ_SAVE			0x42
+#define MENU_SEQ_SETTING		0x43
+
+#define MENU_CFG_BAT			0x51
+#define MENU_CFG_RST			0x52
+
+
+
+
+#define SW_UP 0b00000010
+#define SW_DOWN 0b00000100
+#define SW_RIGHT 0b00000001
+#define SW_LEFT 0b00001000
+
+
+#define BANK_A	0x02400
+#define BANK_B	0x02800
+
+#define CURSOR_ON 1
+#define CURSOR_OFF 0
+
+#define LED_ON 1
+#define LED_OFF 0
+
+#define EDIT_MODE 1
+#define NOT_EDIT_MODE 0
+
+#define MODE_CHG 1
+#define MODE_DIS 2
+#define MODE_CVC 3
+#define MODE_MENU 0
+#define MODE_WAIT 4

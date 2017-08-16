@@ -1,0 +1,19 @@
+-noprelink
+-nomessage
+-list="C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug\charge.map"
+-nooptimize
+-start=data_SE,bss_SE,data_SO,bss_SO,data_NE,bss_NE,data_NO,bss_NO,stack,istack,heap_NE/0400,interrupt,rom_NE,rom_NO,data_SEI,data_SOI,data_NEI,data_NOI,switch_table,C$VTBL,program/08000,vector/0FEDC
+-nologo
+-stack
+-total_size
+-library="C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug\charge.lib"
+-input="C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug\charge.obj"
+-input="C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug\ncrt0.obj"
+-output="C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug\charge.abs"
+-change_message=information=1100,1322,1410
+-end
+-input="C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug\charge.abs"
+-form=stype
+-output="C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug\charge.mot"
+-exit
+

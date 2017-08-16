@@ -1,0 +1,7 @@
+-finfo
+-O"C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug"
+-LM
+-.
+-D__R8C__=1
+-R8C
+"C:\WorkSpace\charge 20161210 cccvdv test\charge\ncrt0.a30"

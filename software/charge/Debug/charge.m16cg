@@ -1,0 +1,4 @@
+-R8C
+-nofloat
+-output="C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug\charge.lib"
+-O3

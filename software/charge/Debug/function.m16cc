@@ -1,0 +1,7 @@
+-lang=c
+-c
+-finfo
+-dir "C:\WorkSpace\charge\charge\Debug"
+-silent
+-R8C
+"C:\WorkSpace\charge\charge\function.c"

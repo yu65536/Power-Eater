@@ -1,0 +1,7 @@
+-lang=c
+-c
+-finfo
+-dir "C:\WorkSpace\charge 20161210 cccvdv test\charge\Debug"
+-silent
+-R8C
+"C:\WorkSpace\charge 20161210 cccvdv test\charge\charge.c"
