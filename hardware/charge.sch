@@ -44,7 +44,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 1350 1200 1450 1150
+S 1800 1400 1450 1150
 U 575A929A
 F0 "charge1" 60
 F1 "charge1.sch" 60
