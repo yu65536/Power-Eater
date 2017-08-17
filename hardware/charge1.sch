@@ -2080,4 +2080,10 @@ Wire Wire Line
 Wire Wire Line
 	3000 7000 3000 6750
 Connection ~ 3000 6750
+Text Notes 1650 3500 0    60   ~ 0
+[todo] Q1, 2 MOSFET
+Text Notes 800  7050 0    60   ~ 0
+[todo] some shunt registance remove
+Text Notes 1350 850  0    60   ~ 0
+[todo] diode connection change
 $EndSCHEMATC
