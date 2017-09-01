@@ -33,7 +33,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 4
+Sheet 1 5
 Title ""
 Date ""
 Rev ""
@@ -58,7 +58,13 @@ $EndSheet
 $Sheet
 S 2550 5800 1500 1500
 U 5773FD14
-F0 "charge3" 60
+F0 "micon" 60
 F1 "charge3.sch" 60
+$EndSheet
+$Sheet
+S 3650 3300 1700 1050
+U 59A91A01
+F0 "ext_io" 60
+F1 "charge4.sch" 60
 $EndSheet
 $EndSCHEMATC
